@@ -7,6 +7,7 @@ Primeira tentativa a criar um.
 Os exemplos registrados aqui foram feitos nas aulas de Algoritmos
 
 Esse é um algoritmo feito em codeblocks que testa se é possivel que um drone de entrega consegue passar pela janela com a entrega (Especificadamente, uma caixa).
+
 Dentro deste sistema é avaliado 3 coisas, o tamanho da janela, o tamanho da caixa que o drone esta levando, e se é possivel o drone passar pela janela com a caixa
 
 
